@@ -1,4 +1,4 @@
-# grovers
+# Grover's algorithm
 A project for implementing grovers algorithm.
 Made in collaboration by: A. Nymand, A. Rudfeld, J. Winther
 
@@ -17,7 +17,7 @@ This requires that you have installed the `uv` python dependecy manager.
 ```bash
 uv sync
 ```
-### 3. project file
+### 3. Project file
 The notebook [`grovers_algorithm.ipynb`](project/grovers_algorithm.ipynb) shows
 1. a detailed walktrough of simulating Grover's algorithm.
 2. an optimzed function calculating the iterations. 
