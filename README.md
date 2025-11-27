@@ -9,7 +9,7 @@ Here is a short tutorial for how to use the repo (or you can download the `proje
 Navigate to your desired location and run:
 ```bash
 git clone https://github.com/BastianValhoj/grovers.git
-cd 10384_QI
+cd grovers
 ```
 
 ### 2. Create and activate a venv
